@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "496298567889",
+    "project_id": "agency-app-aeb8c",
+    "storage_bucket": "agency-app-aeb8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496298567889:android:2da2098b2e8e472fc4fdf0",
+        "android_client_info": {
+          "package_name": "com.example.agency31_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496298567889-p6093qkil5eavd8kkbi8nfde8t7k4gh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agency31_app",
+            "certificate_hash": "849feefda089de58f9af531d9199e6fc879749d9"
+          }
+        },
+        {
+          "client_id": "496298567889-oq96eqik01i51b12n3rkah85osmrc7da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ImLPwd1R6vPvF0RIi1coYz22wZVsEwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496298567889-oq96eqik01i51b12n3rkah85osmrc7da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
